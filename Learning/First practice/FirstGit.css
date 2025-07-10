@@ -1,0 +1,32 @@
+ .navbar {
+      background-color: #032539;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      margin: 0% auto;
+
+    }
+    nav {
+      background-color: #032539;
+      padding: 15px 30px;
+      color: #fa991c;
+      text-decoration: none;
+      border-radius: 0px 0px 15px 15px;
+    }
+    .navbar a {
+      text-decoration: none;
+      color: #fa991c;
+      padding-right: 15px;
+    }
+    .logo {
+    font-size: xx-large;
+    font-weight: bolder;      
+    }
+
+    .hero {
+      display: flex;
+      height: 768px;
+      width: 1366px;
+      padding: 10px;
+    }

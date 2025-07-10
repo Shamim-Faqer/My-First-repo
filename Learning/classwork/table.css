@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: teal
+
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: aquamarine;
+}
